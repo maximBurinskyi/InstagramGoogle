@@ -1,0 +1,63 @@
+<suite name = "Automation Suite" allow-return-values="true" verbose="1" parallel="tests" thread-count="1">
+
+    <test name = "testngTest" parallel="classes" thread-count="1">
+        <classes>
+
+            <class name="NewLikes.Test_Columbia1938Ex" />
+            <class name="NewLikes.Test_CrocsEx" />
+            <class name="NewLikes.Test_RalphLaurenEx" />
+            <class name="NewLikes.Test_CoachEx" />
+            <class name="NewLikes.Test_CalvinKleinEx" />
+            <class name="NewLikes.Test_TommyHilfigerEx" />
+            <class name="NewLikes.Test_UnderArmourEx" />
+            <class name="NewLikes.Test_CanadaGooseEx" />
+            <class name="NewLikes.Test_LululemonEx" />
+            <class name="NewLikes.Test_MonsterEnergyEx" />
+            <class name="NewLikes.Test_AbercrombieAndFitchEx" />
+            <class name="NewLikes.Test_YetiEx" />
+            <class name="NewLikes.Test_VansEx" />
+            <class name="NewLikes.Test_UrbanOutfittersEx" />
+            <class name="NewLikes.Test_TiffanyEx" />
+            <class name="NewLikes.Test_SkechersEx" />
+            <class name="NewLikes.Test_ReignEx" />
+            <class name="NewLikes.Test_LevisEx" />
+            <class name="NewLikes.Test_GapEx" />
+            <class name="NewLikes.Test_GuessEx" />
+            <class name="NewLikes.Test_OldNavyEx" />
+            <class name="NewLikes.Test_ElfBeautyEx" />
+            <class name="NewLikes.Test_UggEx" />
+            <class name="NewLikes.Test_HollisterEx" />
+            <class name="NewLikes.Test_AmericanEagleOutfittersEx" />
+            <class name="NewLikes.Test_SmileDirectClubEx" />
+            <class name="NewLikes.Test_RevolveEx" />
+            <class name="NewLikes.Test_AritziaEx" />
+
+            <class name="Youtube.Test_AbercrombieAndFitch_youtube" />
+            <class name="Youtube.Test_AmericanEagleOutfitters_youtube" />
+            <class name="Youtube.Test_CalvinKlein_youtube" />
+            <class name="Youtube.Test_CanadaGoose_youtube" />
+            <class name="Youtube.Test_Coach_youtube" />
+            <class name="Youtube.Test_Columbia_youtube" />
+            <class name="Youtube.Test_Crocs_youtube" />
+            <class name="Youtube.Test_ElfBeauty_youtube" />
+            <class name="Youtube.Test_Gap_youtube" />
+            <class name="Youtube.Test_Guess_youtube" />
+            <class name="Youtube.Test_Hollister_youtube" />
+            <class name="Youtube.Test_Levis_youtube" />
+            <class name="Youtube.Test_Lululemon_youtube" />
+            <class name="Youtube.Test_MonsterEnergy_youtube" />
+            <class name="Youtube.Test_OldNavy_youtube" />
+            <class name="Youtube.Test_RalphLauren_youtube" />
+            <class name="Youtube.Test_Skechers_youtube" />
+            <class name="Youtube.Test_Tiffany_youtube" />
+            <class name="Youtube.Test_TommyHilfiger_youtube" />
+            <class name="Youtube.Test_Ugg_youtube" />
+            <class name="Youtube.Test_UnderArmour_youtube" />
+            <class name="Youtube.Test_UrbanOutfitters_youtube" />
+            <class name="Youtube.Test_Vans_youtube" />
+            <class name="Youtube.Test_Yeti_youtube" />
+
+
+        </classes>
+    </test>
+</suite>

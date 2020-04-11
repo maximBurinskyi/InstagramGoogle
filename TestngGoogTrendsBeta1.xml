@@ -1,0 +1,96 @@
+<suite name = "Automation Suite" allow-return-values="true" verbose="1" parallel="tests" thread-count="1">
+
+    <test name = "testngTest" parallel="classes" thread-count="1">
+        <classes>
+
+
+
+            <class name="API.GoogleTrendsTests.TestGoogTrendsTargetUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsTargetWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsTeslaUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsTeslaWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsTimberlandUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsTimberlandWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsTommyHilfigerUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsTommyHilfigerWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsTripAdvisorUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsTripAdvisorWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsUnderArmourUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsUnderArmourWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsUrbanOutfittersUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsUrbanOutfittersWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsVansUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsVansWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsVicrotoriaSecretUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsVictoriaSecretWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsVictoriaSecretWorldwideExpediaUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsVictoriaSecretWorldwideExpediaWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZFiveBelowUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZFiveBelowWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZFloorAndDecorUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZFloorAndDecourWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZHerbalifeNutritionUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZHerbalifeWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZHomeDepotUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZHomeDepotWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZLowesUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZLoweWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZMariotInternationalUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZMariotInternationalWordwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZMariotUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZMariotWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZMLaCroixUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZMLaCroixWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZPlanetFitnesUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZPlanetFitnesWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZSproutsFarmerMarketUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZSprutFarmersMarketWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZTractorSupplyUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZTractorSupplyWorlwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZWayfairUS" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZWayfairWorldwide" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZWendyCompanyUs" />
+            <class name="API.GoogleTrendsTests.TestGoogTrendsZWendyCompanyWorldwide" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </classes>
+    </test>
+</suite>

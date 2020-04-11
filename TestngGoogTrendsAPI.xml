@@ -1,0 +1,275 @@
+<suite name = "Automation Suite2" allow-return-values="true" verbose="1" parallel="classes" thread-count="62">
+
+    <test name = "testngTest">
+        <classes>
+
+            <class name="API.GoogleTrendsTestsWork.TestAmericanEagleUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestAmericanEagleWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestBaskinRobbinsDNKNWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestBaskinRobbinsDNKN_USex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestBestBuyWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestBestBuyUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestBookingUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestBookingWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestCalvinKleinUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestCalvinKleinWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestCanadaGooseCanadaex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestCanadaGooseWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestCarterUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestCarterWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestCheesecakeFactoryUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestCheesecakeFactoryWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestChipotleUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestChipotleWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestCrocsUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestCrocsWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestDeckersUGG_USex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestDeckersUGG_Worldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestDollarTreeUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestDollarTreeWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestDominoUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestDominoWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestDunkinUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestDunkinWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestFamilyDollarUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestFamilyDollarWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestFootLockerUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestFootLockerWorldwideex" />
+
+
+            <class name="API.GoogleTrendsTestsWork.TestFreshpetUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestFreshpetWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestGapUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestGapWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestHokaUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestHokaWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestJackBoxUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestJackBoxWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestJackBoxUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestJimmyChooUsex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestJimmyChooWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestKFCUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestKFCWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestKrogerUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestKrogerWorldwide" />
+
+            <class name="API.GoogleTrendsTestsWork.TestLaviStraussUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestLeviStraussWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestLululemonUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestLululemonWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestMacyUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestMacyWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestMcDonaldsUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestMcDonaldsWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestMonsterEnergyUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestMonsterEnergyWorldWideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestNetflixWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestsNetflixUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestNikeUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestNikeWorlwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestNordstromUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestNordstromWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestNorthFaceUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestNorthFaceWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestOllieUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestOllieWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestPapaJohnUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestPapaJohnWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestPVHCalvinKleinWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestRalphLaurenUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestRalphLaurenWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestRealRealUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestRealRealWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestReignUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestReignWordwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestRevolveUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestRevovleWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestRevlonUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestRevlonWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestShakeShackUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestShakeShackWordwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestSignetJewelersUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestSignetJewelersWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestSkechersUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestSkechersWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestNetflixWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestsNetflixUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestStarbucksUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestStarbucksWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestStevemaddenUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestSteveMaddenWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestStitchUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestStitchWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestTacoBellUS" />
+
+            <class name="API.GoogleTrendsTestsWork.TestTacoBellWordwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestTapestryUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestTapestryWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestTargetUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestTargetWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestTeslaUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestTeslaWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestTimberlandUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestTimberlandWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestTommyHilfigerUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestTommyHilfigerWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestTripAdvisorUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestTripAdvisorWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestUnderArmourUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestUnderArmourWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestUrbanOtfittersWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestUrbanOutfittersUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestVansUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestVansWorldwide" />
+
+            <class name="API.GoogleTrendsTestsWork.TestVersaceUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestVersaceWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestVictoriaSecretUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestVictoriaSecretWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestWingstopUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestWingstopWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestYeti_collersUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestYeti_collersWorldwideex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestYetiUSex" />
+
+            <class name="API.GoogleTrendsTestsWork.TestYetiWorldwideex" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </classes>
+    </test>
+</suite>

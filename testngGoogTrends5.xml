@@ -1,0 +1,25 @@
+<suite name = "Automation Suite2" allow-return-values="true" verbose="1" parallel="classes" thread-count="2">
+
+    <test name = "testngTest">
+        <classes>
+
+            <!--<class name="API.GoogleTrendsTests2.TestCrocs" />-->
+
+            <!--<class name="API.GoogleTrendsTests2.TestUnderArmour" />-->
+
+
+
+
+            <class name="API.GoogleTrendsTests3.Test1" />
+            <class name="API.GoogleTrendsTests3.Test2" />
+            <class name="API.GoogleTrendsTests3.Test3"/>
+
+
+
+
+
+
+
+        </classes>
+    </test>
+</suite>
